@@ -267,8 +267,42 @@
     
 # else:
 #     print(usuario2)
+
+
+# print("Ejercicio20")
+
+
+# tupla1 = (3, 4)
+# tupla2 = (3, 5)
+
+# if tupla1 == tupla2:
+#     print("Tuplas iguales")
+# else:
+#     print("Tuplas diferentes")
+
+# print("Diccionarios")
+# print("Ejercicio21")
+
+# usuario={"nombre": "juan","edad":17}
+
+# if usuario["edad"]>=18:
+#     print("Adulto")
+    
+# else:
+#     print("menor de edad")
     
     
+# print("Ejercicio22")
+
+# diccionario2={"nombre":"lucia","edad":20}
+
+# if diccionario2["edad"]>18:
+#     print("el precio es de", diccionario2["precio"])
+    
+# else:
+#     print("no hay disponible")
+
+
 # print("Ejercicio23")
 
 # diccionario={"nombre": "Carlos"}
@@ -284,42 +318,11 @@
 # diccionario2= {"producto": "pan", "precio": 1200}
 
 # if "precio" in diccionario2:
-# if tupla4[1] >5:
+#     tupla4[1] >5
 #     print("coordenada alta")
     
 # else:
 #     print("coordenada baja")
-    
-    
-# print("Ejercicio20")
-
-
-# tupla1 = (3, 4)
-# tupla2 = (3, 5)
-
-# if tupla1 == tupla2:
-#     print("Tuplas iguales")
-# else:
-#     print("Tuplas diferentes")
-
-
-# print("diccionarios")
-# print("Ejercicio21")
-
-# usuario={"nombre": "juan","edad":17}
-
-# if usuario["edad"]>=18:
-#     print("Adulto")
-    
-# else:
-#     print("menor de edad")
-    
-    
-# print("Ejercicio22")
-#     print("el precio es de", diccionario2["precio"])
-    
-# else:
-#     print("no hay disponible")
 
 
 # print("Ejercicio25")
