@@ -297,10 +297,11 @@
 # diccionario2={"nombre":"lucia","edad":20}
 
 # if diccionario2["edad"]>18:
-#     print("el precio es de", diccionario2["precio"])
+    # diccionario2["edad"]=21
+#     print(diccionario2)
     
 # else:
-#     print("no hay disponible")
+#     print("ingrese de nuevo la edad")
 
 
 # print("Ejercicio23")
@@ -318,11 +319,10 @@
 # diccionario2= {"producto": "pan", "precio": 1200}
 
 # if "precio" in diccionario2:
-#     tupla4[1] >5
-#     print("coordenada alta")
+#     print(["precio"])
     
 # else:
-#     print("coordenada baja")
+#     print("no hay precio")
 
 
 # print("Ejercicio25")
