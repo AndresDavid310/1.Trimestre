@@ -48,3 +48,10 @@ print(f"pares: {pares} impares: {impares}")
 
 print("Ejercicio5")
 
+lista=[]
+nota=int(input("ingrese una nota: "))
+
+while  nota != "salir"
+nota=lista
+    if nota <=0 or nota > 10:
+        lista.append(nota)
